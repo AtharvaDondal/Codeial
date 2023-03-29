@@ -1,0 +1,17 @@
+{
+  "name": "codeial",
+  "version": "1.0.0",
+  "description": "This is an my first web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "social"
+  ],
+  "author": "Atharva",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
